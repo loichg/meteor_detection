@@ -2,7 +2,7 @@
 # Meteorix
 
 ## Motion Vector Extractor (MVE) - Détection de Météores
-
+ 
 ### Introduction
 Ce projet implémente un algorithme de détection des météores basé sur l'extraction et le filtrage des vecteurs de mouvement à partir de vidéos compressées en **H.264** ou **MPEG-4**. Il s'inscrit dans la mission **Meteorix**, un CubeSat universitaire dédié à l'étude des météoroïdes et des débris spatiaux.
 
